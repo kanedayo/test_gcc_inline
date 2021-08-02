@@ -1,4 +1,4 @@
-//  gcc -g -O2 -c *.c
+//  gcc -g -O2 -c *.c [-fno-inline]
 //  gcc *.o
 //  objdump.exe -S -d a.exe
 #include <stdio.h>
